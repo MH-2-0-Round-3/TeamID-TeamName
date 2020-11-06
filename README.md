@@ -1,2 +1,2 @@
-# -Team-ID_TeamName-
+# -Team-ID-TeamName-
 &lt;Problem Statement Title>
